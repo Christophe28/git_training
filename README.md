@@ -13,5 +13,4 @@
 - git log 
 - git merge
 - git branch
-
-- bisous
+- ça marche ou pas ?
